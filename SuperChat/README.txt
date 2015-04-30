@@ -1,0 +1,1 @@
+Zunächst in der ipadresses.txt die IP-Adressen der Server einfügen!
